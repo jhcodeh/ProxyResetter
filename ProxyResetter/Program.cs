@@ -1,5 +1,5 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="MailType.cs" company="code Herrenkind - www.codeh.de">
+// <copyright file="Program.cs" company="code Herrenkind - www.codeh.de">
 //     Copyright (c) 2015 code Herrenkind. All rights reserved.
 // </copyright>
 //-----------------------------------------------------------------------
