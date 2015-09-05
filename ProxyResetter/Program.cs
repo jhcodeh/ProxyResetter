@@ -23,10 +23,10 @@ namespace ProxyResetter
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Shos the system tray icon.
+            // Shows the system tray icon.
             using (var pi = new ProcessIcon())
             {
-                // Create daemon and giv to backend.
+                // Create daemon and give to backend.
                 Daemon deamon = new Daemon(3000);
                 pi.Display(deamon);
 
